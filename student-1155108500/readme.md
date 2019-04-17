@@ -33,3 +33,4 @@ Hello, my name is **`Jacky`**. I am a year 2 computer science student. This is m
 | CSCI2100B     |Homework 4           | 30/4      |
 | UGED1111      |Group Project        | 5/5       |
 ##### **So many homework~** 😱😱😱
+![image](https://github.com/csci3250-2019/student-1155108500/blob/master/student-1155108500/command.png)
